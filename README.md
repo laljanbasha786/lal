@@ -1,0 +1,2 @@
+# lal
+learning new technologies
